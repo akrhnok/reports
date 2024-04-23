@@ -68,3 +68,23 @@ Citations:
 [6] https://journals.sagepub.com/doi/10.1177/07356331241240460
 [7] https://github.com/noumannahmad
 [8] https://github.com/nationskollen
+
+## Is GitHub Copilot a Substitute for Human Pair-programming? An Empirical Study
+
+Saki Imaiの研究「Is GitHub Copilot a Substitute for Human Pair-programming? An Empirical Study」は、GitHub Copilotが人間のペアプログラミングの代替としてどの程度有効かを実証的に調査したものです。この研究では、21人の開発者を対象に「マインスイーパー」ゲームのコード実装を行わせ、GitHub Copilotの使用がコードの生産性と品質にどのような影響を与えるかを分析しました[1][5][6][7][8].
+
+研究の結果、GitHub Copilotを使用することでコードの生産性は向上するものの、生成されたコードの品質は低下する傾向があることが観察されました。具体的には、Copilotを使用した場合、コードの行数は増加するものの、コードの品質には問題が生じることが示されています。この研究は、GitHub Copilotが開発者の生産性を向上させる可能性を示しつつも、人間のペアプログラマーに完全に取って代わるものではないと結論付けています。
+
+また、他の研究では、GitHub Copilotが提案するコードにはセキュリティの脆弱性が含まれる可能性があることが指摘されています。例えば、ある研究では、Copilotが提案するコードの40%が脆弱性を含む可能性があるとされています[1]. さらに、Copilotが提案するコードの正確性に関する研究も行われており、LeetCodeの問題を入力としてCopilotの提供する解決策の正確性を評価しています[2].
+
+このように、GitHub Copilotは開発者の生産性を向上させるツールとしての潜在力を持ちながらも、コードの品質やセキュリティに関しては人間のペアプログラマーに比べて劣る可能性があることが、複数の研究によって示されています。
+
+Citations:
+[1] https://arxiv.org/pdf/2302.00438.pdf
+[2] https://arxiv.org/pdf/2303.08733.pdf
+[3] https://uu.diva-portal.org/smash/get/diva2:1775041/FULLTEXT01.pdf
+[4] https://dl.acm.org/doi/10.1007/s10664-023-10380-1
+[5] https://www.researchgate.net/publication/364417476_Is_GitHub_copilot_a_substitute_for_human_pair-programming_an_empirical_study
+[6] https://www.researchgate.net/publication/361291301_Is_GitHub_Copilot_a_Substitute_for_Human_Pair-programming_An_Empirical_Study
+[7] https://dl.acm.org/doi/fullHtml/10.1145/3589996
+[8] https://www.scribd.com/document/630850244/Saki-Imai-Is-GitHub-Copilot-a-Substitute-for-Human-Pair-programming-An-Empirical-Study
