@@ -1,5 +1,5 @@
 # Bookmarks
 
-[https://github.com/increments/qiita-cli](https://github.com/increments/qiita-cli)
-[https://qiita.com/settings/applications](https://qiita.com/settings/applications)
-8ff3f18b2f556c5a967b207f2e61407b92abf4c2
+- [https://github.com/increments/qiita-cli](https://github.com/increments/qiita-cli)
+- [https://qiita.com/settings/applications](https://qiita.com/settings/applications)
+- 8ff3f18b2f556c5a967b207f2e61407b92abf4c2
