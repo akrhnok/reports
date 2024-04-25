@@ -30,3 +30,59 @@ Windows 11の登場により、第7世代のIntel Coreプロセッサ搭載PCは
 ## まとめ
 
 リース終了によって中古市場に出回る第7世代Coreプロセッサ搭載PCは、新しいOSをインストールすることで、まだまだ現役で活躍できることを忘れてはいけません。2024年4月現在、これらのPCは中古市場でのねらい目と言えるでしょう。特にLet's Noteシリーズは、その耐久性、携帯性、アップグレードの容易さから、中古PCを探している方には特におすすめです。
+
+以下は、2024年4月現在の中古PC市場における第7世代Coreプロセッサ搭載PCの魅力とおすすめモデルについてのブログ記事案です。
+
+---
+
+# 第7世代Coreプロセッサ搭載PCの魅力とおすすめモデル
+
+## 第7世代CoreプロセッサPCの市場状況
+第7世代Coreプロセッサを搭載したPCは、多くがリース契約の終了に伴い中古市場に流入しています。これらのPCは、Windows 11に正式対応していないため、価格が大幅に下がっており、コストパフォーマンスに優れた選択肢となっています。
+
+## Windows 11のインストール可能性
+公式にはサポート外ですが、技術的な手段を用いればWindows 11のインストールが可能です。また、Chrome OS FlexやLinuxなどの代替OSをインストールすることで、現代の用途にも十分対応することができます。
+
+## コストパフォーマンスの高さ
+オークションやフリーマーケットサイトでは、送料込みで10,000円前後という低価格でこれらのPCを入手可能です。第7世代のプロセッサは現在の用途にも十分な性能を持っており、非常にお勧めです。
+
+## 個人的おすすめモデル：Let's Noteシリーズ
+特におすすめしたいのは、PanasonicのLet's Noteシリーズです。以下、その理由を挙げます。
+
+### 理由1: 頑丈な筐体
+Let's Noteは、その耐久性の高さで知られています。実際に超満員電車での耐久テストをクリアしており、日常的な使用においても非常に信頼性が高いです。
+
+### 理由2: 軽量機種
+特にSZ5やSZ6シリーズは、その軽量さで人気があります。持ち運びに便利で、外出先でもストレスなく使用できます。
+
+### 理由3: 交換可能なバッテリー
+バッテリーの交換が可能であり、中古市場にも交換用バッテリーが豊富に流通しています。これにより、長期間にわたって製品を使用することが可能です。
+
+### 理由4: アップグレードの容易さ
+メモリは交換できませんが、SSDは比較的簡単にアクセスし交換が可能です。これにより、ストレージの拡張や速度向上が手軽に行えます。
+
+---
+
+このように、第7世代Coreプロセッサを搭載した中古PCは、多くのメリットを備えており、特にLet's Noteシリーズはその耐久性と携帯性で高い評価を受けています。中古PC市場での賢い選択肢として、ぜひ検討してみてください。
+
+Citations:
+[1] https://learn.microsoft.com/ja-jp/windows-hardware/design/minimum/supported/windows-11-supported-intel-processors
+[2] https://partition.aomei.jp/windows-11/how-to-install-windows-11-on-an-old-pc.html
+[3] https://kakakumag.com/pc-smartphone/?id=18891
+[4] https://www.amazon.co.jp/%E4%B8%AD%E5%8F%A4%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/s?k=%E4%B8%AD%E5%8F%A4%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3
+[5] https://work-in-park.com/lets-neraime/
+[6] https://pc.watch.impress.co.jp/docs/column/ubiq/1334310.html
+[7] https://www.kunimiyasoft.com/windows11-installex/
+[8] https://akiba-pc.watch.impress.co.jp/docs/sp/1427037.html
+[9] https://www.mediator.co.jp
+[10] https://www.be-stock.com/shop/column/post/letsnote-recommend.html
+[11] https://jp.ext.hp.com/techdevice/windows11/windows_sc40_02/
+[12] https://www.dell.com/support/kbdoc/ja-jp/000130972/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AB-kaby-lake-%E4%BB%A5%E9%99%8D-%E3%81%AE-%E3%83%97%E3%83%AD%E3%82%BB%E3%83%83%E3%82%B5%E3%83%BC-%E3%81%AE-microsoft-windows-%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
+[13] https://connect.panasonic.com/jp-ja/products-services/letsnote/lineup/fv
+[14] https://www.yrl-qualit.com
+[15] https://sakidori.co/article/1793181
+[16] https://forest.watch.impress.co.jp/docs/news/1346975.html
+[17] https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14276014524
+[18] https://my-best.com/5108
+[19] https://www.businessinsider.jp/post-237706
+[20] https://nishikiout.net/entry/2021/08/28/133100
