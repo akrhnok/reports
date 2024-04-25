@@ -1,3 +1,25 @@
+## GitHub Copilotを利用してJavaの開発を行ったレビュー
+
+- Qiitaの記事では、サーバーサイドアプリケーションの開発においてGitHub Copilotを検証した結果、ライブラリの整備やアーキテクチャの設計・開発には人間の介入が必要であると結論づけています。しかし、GitHub Copilotは生産性を向上させる可能性があるとも述べており、特にWebAPIを提供するサーバーサイドアプリケーションの開発において、Java17とSpring Boot 3を使用して検証が行われました[1]。
+
+- 別のQiitaの記事では、GitHub CopilotがAIを使用してプログラミングを支援するツールであること、自然言語で指示を出してソースコードを提案する機能を持っていることが紹介されています。また、GitHub CopilotはCodexという生成的AIモデルを使用しており、GPT-3をベースにしているが、将来的にはGPT-4をベースにしたGitHub Copilot Xの精度向上が期待されています[3]。
+
+- GMOインターネットのブログでは、GitHub Copilotを使用してログイン画面の開発を行った結果、コメントを書くことでサジェスト精度が向上し、テンプレート的なコードの実装が得意であることが示されています。ただし、実装したコードはGitHubに送られるため、機密情報を含む場合はリスクがあると指摘されています[4]。
+
+- booklistaの技術ブログでは、GitHub Copilotを使用した感想として、生産性の向上や、未経験の言語やフレームワークでも実装が容易になるなどの利点が挙げられています。また、プロジェクト全体のコードを分析して一貫性を保つようにサジェストする機能があると評価されています[5]。
+
+これらのレビューから、GitHub CopilotはJavaの開発において一定の生産性向上をもたらす可能性があるが、完全に人間の介入を排除することはできず、特にアーキテクチャの設計や機密情報を含むコードの取り扱いには注意が必要であるという結論が導かれます。
+
+Citations:
+[1] https://qiita.com/sublime_otsuka/items/fb27bb3a882673b97745
+[2] https://www.docswell.com/s/shosuz/58G6JQ-2023-11-11-152330
+[3] https://qiita.com/sublime_otsuka/items/f8e3e1e4e576fe150dad
+[4] https://recruit.gmo.jp/engineer/jisedai/blog/how-to-hack-github-copilot/
+[5] https://techblog.booklista.co.jp/entry/2023/07/25/095213
+[6] https://ar-ray.hatenablog.com/entry/2021/07/11/212048
+[7] https://note.rehabforjapan.com/n/nb258c95b1e26?gs=d296739b83cd
+[8] https://www.toolify.ai/ja/ai-news-jp/copilot%E5%8A%B9%E7%8E%87%E7%9A%84java%E8%A1%8C-2661652
+
 ## Github Copilotの利用状況に関するまとめ(JA)
 開発言語別のGitHub Copilotの利用状況に関するデータは、サイバーエージェントが公開した情報に含まれています。サイバーエージェントは、社内でのGitHub Copilotの利用データを公開し、AIが提案したコードの採用率を言語別に明らかにしています。例えば、Typescriptでは提案のうち36.5%が採用され、Goでは39.9%、Pythonでは32.2%の提案が採用されていると報告されています[6]。
 
